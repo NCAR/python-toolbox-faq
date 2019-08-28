@@ -1,2 +1,3 @@
-# pangeo-help
-Pangeo related issues 
+# Frequently asked questions about Python/Pangeo Toolbox
+
+
