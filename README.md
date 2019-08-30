@@ -1,3 +1,3 @@
-# Frequently asked questions about Python/Pangeo Toolbox
+# Forum for questions and answers about Python/Pangeo Toolbox
 
 
